@@ -1,4 +1,4 @@
-package com.hq.Factory;
+package com.hq.factory;
 
 import com.hq.eneity.Bread;
 import com.hq.eneity.Food;
