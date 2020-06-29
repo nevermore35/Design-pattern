@@ -1,8 +1,9 @@
-package com.hq.simpleFactory;
+package com.hq.createMode.simpleFactory;
 
-import com.hq.eneity.Dumpling;
-import com.hq.eneity.Food;
-import com.hq.eneity.Noodle;
+
+import com.hq.createMode.simpleFactory.entity.Dumpling;
+import com.hq.createMode.simpleFactory.entity.Food;
+import com.hq.createMode.simpleFactory.entity.Noodle;
 
 public class SimpleFactory {
 
