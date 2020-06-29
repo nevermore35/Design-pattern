@@ -1,4 +1,4 @@
-package com.hq.abstractFactory.entity;
+package com.hq.createMode.abstractFactory.entity;
 
 public class AmdCpu extends Cpu{
     public void desc(){
