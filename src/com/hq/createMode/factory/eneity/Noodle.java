@@ -1,4 +1,4 @@
-package com.hq.eneity;
+package com.hq.createMode.factory.eneity;
 
 public class Noodle extends Food{
 
