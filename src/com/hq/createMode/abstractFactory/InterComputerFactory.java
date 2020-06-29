@@ -1,6 +1,6 @@
-package com.hq.abstractFactory;
+package com.hq.createMode.abstractFactory;
 
-import com.hq.abstractFactory.entity.*;
+import com.hq.createMode.abstractFactory.entity.*;
 
 public class InterComputerFactory implements ComputerFactory{
     @Override

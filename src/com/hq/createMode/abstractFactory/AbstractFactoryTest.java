@@ -1,9 +1,9 @@
-package com.hq.abstractFactory;
+package com.hq.createMode.abstractFactory;
 
-import com.hq.abstractFactory.entity.Computer;
-import com.hq.abstractFactory.entity.Cpu;
-import com.hq.abstractFactory.entity.HardDisk;
-import com.hq.abstractFactory.entity.MainBoard;
+import com.hq.createMode.abstractFactory.entity.Computer;
+import com.hq.createMode.abstractFactory.entity.Cpu;
+import com.hq.createMode.abstractFactory.entity.HardDisk;
+import com.hq.createMode.abstractFactory.entity.MainBoard;
 
 public class AbstractFactoryTest {
     public static void main(String[] args) {
