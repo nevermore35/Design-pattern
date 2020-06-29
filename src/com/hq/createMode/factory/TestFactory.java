@@ -1,6 +1,6 @@
-package com.hq.factory;
+package com.hq.createMode.factory;
 
-import com.hq.eneity.Food;
+import com.hq.createMode.factory.eneity.Food;
 
 public class TestFactory {
     public static void main(String[] args) {

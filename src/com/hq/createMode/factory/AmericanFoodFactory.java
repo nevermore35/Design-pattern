@@ -1,8 +1,8 @@
-package com.hq.factory;
+package com.hq.createMode.factory;
 
-import com.hq.eneity.Bread;
-import com.hq.eneity.Food;
-import com.hq.eneity.Salad;
+import com.hq.createMode.factory.eneity.Bread;
+import com.hq.createMode.factory.eneity.Food;
+import com.hq.createMode.factory.eneity.Salad;
 
 public class AmericanFoodFactory implements FoodFactory{
     @Override

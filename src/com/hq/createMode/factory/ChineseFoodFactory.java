@@ -1,8 +1,8 @@
-package com.hq.factory;
+package com.hq.createMode.factory;
 
-import com.hq.eneity.Dumpling;
-import com.hq.eneity.Food;
-import com.hq.eneity.Noodle;
+import com.hq.createMode.factory.eneity.Dumpling;
+import com.hq.createMode.factory.eneity.Food;
+import com.hq.createMode.factory.eneity.Noodle;
 
 public class ChineseFoodFactory implements FoodFactory{
     @Override
